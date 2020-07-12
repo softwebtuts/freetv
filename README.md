@@ -1,2 +1,4 @@
-# freetv
-This is free TV app source code that is only for sotwebtuts.
+heroku-node
+===========
+
+Code for the tutorial by @sevilayha: Deploying Node Apps to Heroku
